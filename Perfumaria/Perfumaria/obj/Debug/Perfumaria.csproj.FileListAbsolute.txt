@@ -1,0 +1,66 @@
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe.config
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\bin\Debug\Perfumaria.pdb
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.AssemblyReference.cache
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Properties.Resources.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.GenerateResource.cache
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.CoreCompileInputs.cache
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.exe
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.pdb
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmPrincipal.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmLogin.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmUsuario.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmCliente.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmProduto.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmSetor.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmNovaVenda.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmConsultarVenda.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmEntradaEstoque.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmConsultarEstoque.resources
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmAlterarSetor.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe.config
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\bin\Debug\Perfumaria.pdb
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.AssemblyReference.cache
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmAlterarSetor.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmCliente.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmConsultarEstoque.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmConsultarVenda.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmEntradaEstoque.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmNovaVenda.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmPrincipal.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmLogin.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmProduto.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmSetor.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmUsuario.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Properties.Resources.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.GenerateResource.cache
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.CoreCompileInputs.cache
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.exe
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.pdb
+C:\Users\evandro.ykoliveira\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmSobre.resources
+C:\Users\YK\source\repos\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmSobre.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe.config
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\bin\Debug\Perfumaria.pdb
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.AssemblyReference.cache
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.SuggestedBindingRedirects.cache
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmAlterarSetor.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmCliente.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmConsultarEstoque.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmConsultarVenda.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmEntradaEstoque.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmNovaVenda.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmPrincipal.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmLogin.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmProduto.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmSetor.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmSobre.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.frmUsuario.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Properties.Resources.resources
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.GenerateResource.cache
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.CoreCompileInputs.cache
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.exe
+D:\Users\YK\Desktop\@Perfumaria da Lú\Fontes\Perfumaria\Perfumaria\obj\Debug\Perfumaria.pdb
